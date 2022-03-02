@@ -1,9 +1,10 @@
 # keithley-4-wire-short
-
-![Alt text](/images/front.PNG?raw=true "Optional Title")
-
-![Alt text](/images/back.PNG?raw=true "Optional Title")
-
 4 wire short made for Keithley 2000.
-- 19,05mm distance
-- M3 holes
+
+![Alt text](/images/front.PNG?raw=true "front")
+
+![Alt text](/images/back.PNG?raw=true "back")
+
+- M3 holes.
+- 19,05mm distance.
+- Designed for [Pomona 72918](https://www.pomonaelectronics.com/products/hardware/4mm-banana-plug-threaded-m3-stud) M3 stud.
