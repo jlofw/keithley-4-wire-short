@@ -2,9 +2,9 @@
 
 4 wire short made for Keithley 2000.
 
-![Alt text](/images/front.PNG?raw=true "front")
+![front](/images/front.PNG?raw=true)
 
-![Alt text](/images/back.PNG?raw=true "back")
+![back](/images/back.PNG?raw=true)
 
 - M3 holes.
 - 19,05mm distance.
